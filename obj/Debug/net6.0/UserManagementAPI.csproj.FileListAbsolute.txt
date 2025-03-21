@@ -1,0 +1,7 @@
+C:\Windows\System32\UserManagementAPI\obj\Debug\net6.0\UserManagementAPI.csproj.AssemblyReference.cache
+C:\Windows\System32\UserManagementAPI\obj\Debug\net6.0\UserManagementAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Windows\System32\UserManagementAPI\obj\Debug\net6.0\UserManagementAPI.AssemblyInfoInputs.cache
+C:\Windows\System32\UserManagementAPI\obj\Debug\net6.0\UserManagementAPI.AssemblyInfo.cs
+C:\Windows\System32\UserManagementAPI\obj\Debug\net6.0\UserManagementAPI.csproj.CoreCompileInputs.cache
+C:\Windows\System32\UserManagementAPI\obj\Debug\net6.0\UserManagementAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Windows\System32\UserManagementAPI\obj\Debug\net6.0\UserManagementAPI.MvcApplicationPartsAssemblyInfo.cache
